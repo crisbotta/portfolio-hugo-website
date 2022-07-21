@@ -19,14 +19,12 @@ design:
     text_color_light: true   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["50px", "0", "50px", "0"]
+    padding: ["60px", "0", "60px", "0"]
 ---
 
 # :leaves: Cristina Botta
-### All that is gold does not glitter  
-### Not all who wander are lost  
-### The old that is strong does not wither  
-### Deep roots are not reached by the frost  
+#### MSc in Digital Media and independent researcher | 
+#### STEAM educator | Graphic and media designer 
 
 
 
