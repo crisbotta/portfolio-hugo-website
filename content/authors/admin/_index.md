@@ -15,14 +15,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - display:
-      header: false
-    link: https://codeberg.org/crisbotta/
-    icon_pack: fab
-    icon: codeberg
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/crisbotta/
+  - display:
+      header: false
+    link: https://codeberg.org/crisbotta/
+    icon_pack: fas
+    icon: fa-solid fa-mountain
+    label: codeberg
   - display:
       header: false
     link: https://mastodon.social/@crisbotta
