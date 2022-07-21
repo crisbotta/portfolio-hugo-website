@@ -1,77 +1,57 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+role: Freelance designer and independent researcher
+avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQGXTqWcoSVd9A/profile-displayphoto-shrink_800_800/0/1656715141605?e=1663804800&v=beta&t=9OrL4xz6ceev3ed4hi0ksp8_CpZy1PEh4pbGSUTmX9k
+bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
+  and media designer
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - use of technology in education
+  - digital artifacts preservation and archiving
+  - media archeology
+  - FOSS software
+  - software and video game studies and history
+  - STEAM
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: /#contact
+  - display:
+      header: false
+    link: https://codeberg.org/crisbotta/
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    icon: codeberg
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/crisbotta/
+  - display:
+      header: false
+    link: https://mastodon.social/@crisbotta
+    icon_pack: fab
+    icon: mastodon
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/safkhet
+organizations:
+  - name: SESC São Paulo
+    url: https://www.sescsp.org.br
+education:
+  courses:
+    - course: MSc in Digital Media
+      institution: University of Bremen | University of the Arts Bremen | Hochschule
+        Bremen | Hochschule Bremerhaven
+      year: 2011
+    - course: Postgraduate Degree in Higher Education
+      institution: SENAC São Paulo
+      year: 2012
+    - course: BA in Graphic Design
+      institution: Centro Universitário Belas Artes de São Paulo
+      year: 2005
+superuser: true
 highlight_name: true
+title: Cristina Botta
+email: ""
 ---
+Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in the areas of design and UX / UI.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I contribute to some open-source software projects (at the moment only with translations, testing and feedback, but I want to contribute with code in the future).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
