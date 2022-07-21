@@ -1,6 +1,6 @@
 ---
 role: Freelance designer and independent researcher
-avatar_filename: assets/media/img_20190707_151922_a.png
+avatar_filename: null
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
   and media designer
 interests:
