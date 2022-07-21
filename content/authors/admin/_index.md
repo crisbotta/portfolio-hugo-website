@@ -1,6 +1,6 @@
 ---
 role: Freelance designer and independent researcher
-avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQGXTqWcoSVd9A/profile-displayphoto-shrink_800_800/0/1656715141605?e=1663804800&v=beta&t=9OrL4xz6ceev3ed4hi0ksp8_CpZy1PEh4pbGSUTmX9k
+avatar_filename: https://0.academia-photos.com/441070/143508/73905242/s200_cristina.botta.png
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
   and media designer
 interests:
@@ -51,7 +51,7 @@ highlight_name: true
 title: Cristina Botta
 email: ""
 ---
-Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in the areas of design and UX / UI.
+Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in design, UX and UI.
 
 In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I contribute to some open-source software projects (at the moment only with translations, testing and feedback, but I want to contribute with code in the future).
 
