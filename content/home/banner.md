@@ -16,10 +16,10 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true   
+    text_color_light: false   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["50px", "0", "50px", "0"]
 ---
 
 # :leaves: Cristina Botta
