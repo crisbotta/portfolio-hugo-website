@@ -28,7 +28,7 @@ item:
     title: Object-Oriented Programming in R
     url: ""
 widget_id: featured
-headless: false
+headless: true
 weight: 50
 title: Accomplish&shy;ments
 subtitle: null
