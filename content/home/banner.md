@@ -3,16 +3,15 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Banner
+title:
 subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-design:
   background:
     # Name of image in `assets/media/`.
-    image: https://unsplash.com/photos/vpHCfunwDrQ
+    image: https://images.unsplash.com/photo-1473654729523-203e25dfda10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0.6
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -29,3 +28,4 @@ design:
 ---
 
 # :leaves: Cristina Botta
+### Not all those who wander are lost...
