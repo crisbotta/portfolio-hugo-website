@@ -10,7 +10,7 @@ interests:
   - Media archeology
   - Software and video game studies and history
   - STEAM
-  - FOSS software
+  - FOSS
 social:
   - icon: envelope
     icon_pack: fas
