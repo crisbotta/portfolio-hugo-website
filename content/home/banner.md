@@ -16,17 +16,17 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false   
+    text_color_light: true   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["50px", "0", "50px", "0"]
 ---
 
 # :leaves: Cristina Botta
-> All that is gold does not glitter  
-> Not all who wander are lost  
-> The old that is strong does not wither  
-> Deep roots are not reached by the frost  
+### All that is gold does not glitter  
+### Not all who wander are lost  
+### The old that is strong does not wither  
+### Deep roots are not reached by the frost  
 
 
 
