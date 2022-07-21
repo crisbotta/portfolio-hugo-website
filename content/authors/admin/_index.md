@@ -1,6 +1,6 @@
 ---
 role: Freelance designer and independent researcher
-avatar_filename: null
+avatar_filename: avatar01.png
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
   and media designer
 interests:
@@ -56,4 +56,4 @@ Digital media specialist, interested in digital artifacts preservation and archi
 
 In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I contribute to some open-source software projects (at the moment only with translations, testing and feedback, but I want to contribute with code in the future).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_crisbotta.pdf" "newtab" >}}resumé{{< /staticref >}}.
