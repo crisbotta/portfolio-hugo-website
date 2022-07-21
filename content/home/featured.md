@@ -4,7 +4,7 @@ widget_id: featured
 weight: 80
 title: Featured Publications
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 0
@@ -14,7 +14,7 @@ content:
     publication_type: ""
     tag: ""
   order: desc
-headless: false
+headless: true
 design:
   view: 3
 ---
