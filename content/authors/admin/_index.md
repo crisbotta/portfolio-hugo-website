@@ -4,12 +4,13 @@ avatar_filename: https://media-exp1.licdn.com/dms/image/C4D03AQGXTqWcoSVd9A/prof
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
   and media designer
 interests:
-  - use of technology in education
-  - digital artifacts preservation and archiving
-  - media archeology
-  - FOSS software
-  - software and video game studies and history
+  - Use of technology in education
+  - Graphic | UX | UI design
+  - Digital artifacts preservation and archiving
+  - Media archeology
+  - Software and video game studies and history
   - STEAM
+  - FOSS software
 social:
   - icon: envelope
     icon_pack: fas
