@@ -1,6 +1,6 @@
 ---
 role: Freelance designer and independent researcher
-avatar_filename: https://0.academia-photos.com/441070/143508/73905242/s200_cristina.botta.png
+avatar_filename: assets/media/img_20190707_151922_a.png
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
   and media designer
 interests:
