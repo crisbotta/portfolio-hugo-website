@@ -8,7 +8,7 @@
 #  name: github
 #  repo: safkhet/portfolio-hugo-website
 
-title: CrisBotta
+title: Crisbotta
 baseURL: 'https://crisbotta.netlify.app/' # Website URL
 
 ############################
