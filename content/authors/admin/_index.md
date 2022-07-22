@@ -27,8 +27,8 @@ social:
   - display:
       header: false
     link: https://codeberg.org/crisbotta/
-    icon_pack: fab
-    icon: codeberg-logo_icon_white
+    icon_pack: fas
+    icon: fa-solid fa-mountain
     label: codeberg
   - display:
       header: false
