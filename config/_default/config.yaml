@@ -3,9 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-backend:
-  name: github
-  repo: safkhet/portfolio-hugo-website
+#might be a solution to the netlify gateway problem
+#backend:
+#  name: github
+#  repo: safkhet/portfolio-hugo-website
 
 title: CrisBotta
 baseURL: 'https://crisbotta.netlify.app/' # Website URL
