@@ -20,9 +20,15 @@ social:
     link: https://www.linkedin.com/in/crisbotta/
   - display:
       header: false
+    link: https://independent.academia.edu/crisbotta
+    icon_pack: ai
+    icon: academia
+    label: Academia.edu
+  - display:
+      header: false
     link: https://codeberg.org/crisbotta/
-    icon_pack: fas
-    icon: fa-solid fa-mountain
+    icon_pack: fab
+    icon: codeberg-logo_icon_white
     label: codeberg
   - display:
       header: false
