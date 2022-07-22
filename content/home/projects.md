@@ -35,6 +35,8 @@ content:
       tag: graphic design
     - name: Games
       tag: games
+    - name: Web
+      tag: web
 
 
 design:
@@ -47,7 +49,7 @@ design:
   #   3 = Card
   #   5 = Showcase
   # masonry
-  view: masonry
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
