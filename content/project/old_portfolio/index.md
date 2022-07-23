@@ -2,11 +2,11 @@
 
 title: Old portfolio website
 
-summary: My old portfolio website built by hand, using only a couple of javascript libraries.
+summary: My old portfolio website, hand-coded, plus a couple of javascript libraries.
 
 tags:
 
-  - webdesign
+  - web
 
 date: ''
 
@@ -18,7 +18,7 @@ external_link: ''
 
 
 
-image: oldportfolio01.png
+image: 
 
   caption: Photo by rawpixel on Unsplash
 
