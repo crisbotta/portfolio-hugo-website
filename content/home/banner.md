@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: true
-
+active: true
 # ... Put Your Section Options Here (title etc.) ...
 title:
 subtitle:
@@ -10,6 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
   view: showcase
+  flip_alt_rows: true
   background:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
