@@ -22,7 +22,7 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-# ![crisbotta logo](crisb_logo_w.svg) Cristina Botta
+# ![crisbotta logo](crisb_logo_w.svg){:height="120px" width="120px"} Cristina Botta
 ###### MSc in Digital Media and independent researcher | 
 ###### STEAM educator | Graphic and media designer 
 
