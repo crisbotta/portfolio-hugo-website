@@ -56,7 +56,7 @@ education:
 superuser: true
 highlight_name: true
 title: Cristina Laura Beniczky Botta
-email: ""
+email: "crisbotta@proton.me"
 ---
 Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in design, UX and UI.
 
