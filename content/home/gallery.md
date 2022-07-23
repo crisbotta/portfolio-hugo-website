@@ -5,6 +5,7 @@ widget: blank
 
 # This file represents a page section.
 headless: true
+active: true
 
 # Order that this section appears on the page.
 weight: 80
@@ -12,8 +13,6 @@ weight: 80
 # Section title
 title: Gallery
 
-# Section subtitle
-subtitle:
 
 # Section design
 design:
