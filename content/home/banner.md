@@ -8,7 +8,8 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
+  view: showcase
   background:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
@@ -22,7 +23,8 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-![crisbotta logo](crisb_logo_w.svg){:height="120px" width="120px"}
+![crisbotta logo](crisb_logo_w.svg)
+
 # Cristina Botta
 ###### MSc in Digital Media and independent researcher | 
 ###### STEAM educator | Graphic and media designer 
