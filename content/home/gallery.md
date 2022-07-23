@@ -31,4 +31,4 @@ gallery_item:
 
 # Instruction should be clearer
 
-{{< gallery album="default" resize-options:{{ $image := $image.Resize "250x" }}>}}
+{{< gallery album="default" resize-options="250x" >}}
