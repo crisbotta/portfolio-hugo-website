@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: crisbotta@proton.me
   phone: +353 83 2005728
   address:
     #street: 450 Serra Mall
@@ -39,17 +39,17 @@ content:
     #longitude: '-122.1697'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   #office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+  #  - 'Monday 10:00 to 13:00'
+   # - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: mastodon
       icon_pack: fab
-      name: DM Me
+      name: Follow me
       link: 'https://crisbotta@mastodon.social'
     - icon: likendin
       icon_pack: fas
-      name: DM Me
+      name: DM me
       link: 'https://linkedin.com/in/crisbotta'
 
 design:
