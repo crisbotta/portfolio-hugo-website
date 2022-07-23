@@ -3,12 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-#might be a solution to the netlify gateway problem
-#backend:
-#  name: github
-#  repo: safkhet/portfolio-hugo-website
-
-title: Crisbotta
+title: crisbotta
 baseURL: 'https://crisbotta.netlify.app/' # Website URL
 
 ############################
@@ -74,3 +69,20 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+  
+ ####### Configuration for project pages
+cascade:
+  - _target:
+      path: /project/**
+    pager: false
+    editable: false
+    reading_time: false
+    commentable: false
+    show_related: true
+    show_breadcrumb: true
+    profile: false
+    show_date: false
+    share: true
+    header:
+      navbar:
+        enable: false
