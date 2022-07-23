@@ -32,7 +32,7 @@ content:
     - name: Logo
       tag: logo
     - name: Graphic Design
-      tag: graphic design
+      tag: graphicdesign
     - name: Games
       tag: games
     - name: Web
