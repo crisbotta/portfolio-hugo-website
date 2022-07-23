@@ -79,10 +79,10 @@ cascade:
     reading_time: false
     commentable: false
     show_related: true
-    show_breadcrumb: true
+    show_breadcrumb: false
     profile: false
     show_date: false
     share: true
     header:
       navbar:
-        enable: false
+        enable: true
