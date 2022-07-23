@@ -29,6 +29,4 @@ gallery_item:
   caption: Write your image 2 caption here
 ---
 
-# Instruction should be clearer
-
-{{< gallery album="default" resize-options="250x" >}}
+{{< gallery album="default" resize-options="200x" >}}
