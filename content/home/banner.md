@@ -19,10 +19,10 @@ design:
     text_color_light: true   
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["60px", "0", "60px", "0"]
+    padding: ["100px", "0", "100px", "0"]
 ---
 
-# :leaves: Cristina Botta
+# ![crisbotta logo](crisb_logo_w.svg) Cristina Botta
 ###### MSc in Digital Media and independent researcher | 
 ###### STEAM educator | Graphic and media designer 
 
