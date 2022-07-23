@@ -9,6 +9,7 @@ content:
   taxonomy: tags
   count: 20
 headless: true
+active: false
 design:
   font_size_min: 0.7
   font_size_max: 2
