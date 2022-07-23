@@ -23,8 +23,8 @@ design:
 ---
 
 # :leaves: Cristina Botta
-##### &emsp;&emsp;&emsp;&emsp; MSc in Digital Media and independent researcher | 
-##### &emsp;&emsp;&emsp;&emsp; STEAM educator | Graphic and media designer 
+###### MSc in Digital Media and independent researcher | 
+###### STEAM educator | Graphic and media designer 
 
 
 
