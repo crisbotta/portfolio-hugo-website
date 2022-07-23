@@ -24,7 +24,9 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-![crisbotta logo](crisb_logo_w.svg)
+<img align="left" width="100" height="100" src="crisb_logo_w.svg">
+
+#![crisbotta logo](crisb_logo_w.svg)
 
 # Cristina Botta
 ###### MSc in Digital Media and independent researcher | 
