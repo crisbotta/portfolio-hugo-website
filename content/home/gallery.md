@@ -30,4 +30,4 @@ gallery_item:
 ---
 
 
-{{< gallery album="default" resize_options="250x">}}
+{{< gallery album="default" $image := $image.Resize "250x">}}
