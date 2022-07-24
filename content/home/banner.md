@@ -34,8 +34,8 @@ design:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["600px", "0", "100px", "100px"]
 ---
-
-<p><span style:width:150px;height:150px;>![crisbotta logo](crisb_logo_w.svg)</span">
+![crisbotta logo](crisb_logo_w.svg)
+<p>
 <h1>Cristina Botta</h1>
 <h6>MSc in Digital Media and independent researcher | </br> 
 STEAM educator | Graphic and media designer
