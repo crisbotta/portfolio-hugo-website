@@ -35,13 +35,13 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-<img align="left" width="100" height="100" src="/assets/media/crisb_logo_w.svg">
-
-#![crisbotta logo](crisb_logo_w.svg)
-
-# Cristina Botta
-###### MSc in Digital Media and independent researcher | 
-###### STEAM educator | Graphic and media designer 
+<p><img src="crisb_logo_w.svg" alt="crisbotta logo"
+style="float:left;width:150px;height:150px;">
+<h1>Cristina Botta</h1>
+<h6>MSc in Digital Media and independent researcher | </br> 
+STEAM educator | Graphic and media designer
+</h6>
+</p>
 
 
 
