@@ -20,13 +20,13 @@ design:
   columns: "1"
   view: masonry
   
-gallery_item:
-- album: default
-  image: Digitalizar0040.jpg
-  caption: Write your image 1 caption here
-- album: default
-  image: Digitalizar0042.jpg
-  caption: Write your image 2 caption here
+# gallery_item:
+#- album: default
+#  image: Digitalizar0040.jpg
+#  caption: Write your image 1 caption here
+#- album: default
+#  image: Digitalizar0042.jpg
+#  caption: Write your image 2 caption here
 ---
 
 {{< gallery album="default" resize-options="200x" >}}
