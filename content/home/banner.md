@@ -17,7 +17,7 @@ design:
     #gradient_angle: 180
 
     # Name of image in `assets/media/`.
-    image: background.jpg
+    image: header_bkg.png
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken: 0
     #  Options are `cover` (default), `contain`, or `actual` size.
@@ -35,7 +35,7 @@ design:
     padding: ["100px", "0", "100px", "0"]
 ---
 
-<img align="left" width="100" height="100" src="assets/media/crisb_logo_w.svg">
+<img align="left" width="100" height="100" src="/assets/media/crisb_logo_w.svg">
 
 #![crisbotta logo](crisb_logo_w.svg)
 
