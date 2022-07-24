@@ -2,7 +2,7 @@
 
 title: Old portfolio website
 
-summary: My old portfolio website, hand-coded, plus a couple of javascript libraries.
+summary: My old portfolio website, hand-coded, besides a couple of javascript libraries.
 
 tags:
 
@@ -14,7 +14,7 @@ date: ''
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: ''
+external_link: 'https://crisbotta.codeberg.page/old_portfolio/'
 
 
 
@@ -28,7 +28,7 @@ image:
 
 links:
 
-url_code: 'https://crisbotta.neocities.org'
+url_code: 'https://codeberg.org/crisbotta/old_portfolio/src/branch/pages'
 
 url_pdf: ''
 
