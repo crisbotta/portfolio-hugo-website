@@ -2,7 +2,7 @@
 
 title: Planned Obsolescence
 
-summary: Website create as a project to raise awareness about planned obsolescence and its consequences.
+summary: Website created as a project to raise awareness about planned obsolescence and its consequences.
 
 tags:
 
