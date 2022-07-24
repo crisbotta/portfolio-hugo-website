@@ -32,7 +32,7 @@ design:
  
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
-    padding: ["100px", "0", "100px", "0"]
+    padding: ["600px", "0", "100px", "0"]
 ---
 
 <p><img src="/assets/media/crisb_logo_w.svg" alt="crisbotta logo"
