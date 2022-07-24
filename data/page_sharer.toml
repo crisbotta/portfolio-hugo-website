@@ -43,7 +43,7 @@
 
 [[buttons]]
   id = "mastodon"
-  url = "https://toot.kytta.dev/?text=url={url}&title={title}&instance=https%3A%2F%2Fmastodon.xyz"
+  url = "https://toot.kytta.dev/?text={url}&title={title}&instance=https%3A%2F%2Fmastodon.xyz"
   title = "Mastodon"
   icon_pack = "fab"
   icon = "mastodon"
