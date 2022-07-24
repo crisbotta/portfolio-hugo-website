@@ -8,9 +8,7 @@ subtitle:
 weight: 10  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
-  view: showcase
-  flip_alt_rows: true
+  columns: '1'
   background:
     #gradient_start: '#4bb4e3'
     #gradient_end: '#2b94c3'
