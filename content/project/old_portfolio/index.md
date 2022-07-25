@@ -7,6 +7,8 @@ summary: My old portfolio website, hand-coded, besides a couple of javascript li
 tags:
 
   - web
+  - illustration
+  - design
 
 date: ''
 
