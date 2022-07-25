@@ -29,6 +29,8 @@ content:
       tag: '*'
     - name: Illustration
       tag: illustration
+    - name: Photography
+      tag: photo
     - name: Logo
       tag: logo
     - name: Design
