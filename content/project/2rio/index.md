@@ -20,7 +20,7 @@ external_link: ''
 
 image:
 
-  caption:
+  caption: 2Rio logo
 
   focal_point: Smart
 
