@@ -29,19 +29,17 @@ external_link: ''
 
 
 
-image: ceetobee logo
+image: 
 
-
-
-  caption: 
-
-
+  caption: ceetobee logo
 
   focal_point: Smart
 
-
-
-
+links:
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
 
 ---
 
