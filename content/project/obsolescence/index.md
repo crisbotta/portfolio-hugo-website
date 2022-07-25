@@ -7,6 +7,7 @@ summary: Website created as a project to raise awareness about planned obsolesce
 tags:
 
   - web
+  - design
 
 date: '2016-04-27T00:00:00Z'
 
