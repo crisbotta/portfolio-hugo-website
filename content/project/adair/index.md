@@ -47,9 +47,9 @@ url_video: ''
 
 Website made in Wordpress for music producer Adair Daufembach. It is not online anymore (he does not have a website at all anymore, only social networks).
 
-![wireframe](adairwire2.png Wireframe for all albums page and search.)
+![wireframe](adairwire2.png "Wireframe for all albums page and search.")
 
-![wireframe](adairwire1.png Wireframe for album's detail page.)
+![wireframe](adairwire1.png "Wireframe for album's detail page.")
 
 
 
