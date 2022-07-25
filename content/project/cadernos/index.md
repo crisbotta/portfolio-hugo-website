@@ -7,6 +7,7 @@ summary: Illustrations for the notebooks the São Paulo state government ditribu
 tags:
 
   - illustration
+  - print
 
 
 date: '2016-04-27T00:00:00Z'
@@ -28,10 +29,13 @@ image:
 
 
 
-![](1-4.jpg "1st to 4th grade")
+![](1-4.jpg "1st to 4th grades")
 
-![](1-4sistema.png "1st to 4th grade")
+![](1-4sistema.png "1st to 4th grades")
 
+![](5-8.jpg "5th to 8th grades")
+
+![](9-11b.jpg "9th to 11th grades")
 
 
 
