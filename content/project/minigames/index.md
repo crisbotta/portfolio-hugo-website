@@ -1,6 +1,6 @@
 ---
 
-title: Mini Games
+title: Handheld games nostalgia
 summary: Cards created for social networks during the Covid lockdowns.
 
 tags: 
