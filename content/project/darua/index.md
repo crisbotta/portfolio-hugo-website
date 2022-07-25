@@ -31,10 +31,7 @@ image:
 ![](darualogo.jpg "Logo")
 
 
-
-
-
-![](darua02.jpg "Cutlery sleeves, glass ")
+![](darua02.jpg "Cutlery sleeves, coasters and promotion postcard.")
 
 
 
