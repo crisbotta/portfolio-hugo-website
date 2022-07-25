@@ -2,11 +2,11 @@
 
 
 
-title: Guna Memory Game
+title: Adair Daufembach
 
 
 
-summary: Memory game developed as additional content for the "Amerindian Encounters" exhibition at SESC Vila Mariana.
+summary: Website made in Wordpress for music producer Adair Daufembach.
 
 
 
@@ -103,7 +103,7 @@ url_video: ''
 
 
 ---
-Site made in Wordpress for music producer Adaur Daufembach. Site is not online anymore.
+Website made in Wordpress for music producer Adair Daufembach. It is not online anymore (he does not have a website at all anymore, only social networks).
 
 ![](adairwire2.png Wireframe for all albums page and search.)
 
