@@ -31,12 +31,18 @@ content:
       tag: illustration
     - name: Logo
       tag: logo
-    - name: Graphic Design
-      tag: graphicdesign
+    - name: Design
+      tag: design
     - name: Games
       tag: games
     - name: Web
       tag: web
+    - name: Writing
+      tag: writing
+    - name: Sesc
+      tag: sesc
+    - name: Video
+      tag: video
 
 
 design:
