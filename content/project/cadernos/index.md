@@ -2,7 +2,7 @@
 
 title: Notebook covers
 
-summary: Illustrations for the notebooks the São Paulo state government ditributes to all kids in the public school system.
+summary: Illustrations for the notebooks the São Paulo state government distributes to all kids in the public school system.
 
 tags:
 
@@ -19,7 +19,7 @@ external_link: ''
 
 image:
 
-  caption:
+  caption: 9th to 11th grades
 
   focal_point: Smart
 
