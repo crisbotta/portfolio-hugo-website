@@ -1,6 +1,6 @@
 ---
 
-title: What are NFTs
+title: What are NFTs?
 summary: Cards created for social networks to help people understand what NFTs are.
 
 tags: 
