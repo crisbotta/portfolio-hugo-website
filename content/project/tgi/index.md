@@ -1,12 +1,9 @@
 ---
-
 title: University graduation project
 
-summary: This project focused on showing through images and design the importance
-of play during childhood.
+summary: This project focused on showing through images and design the importance of play during childhood.
 
 tags:
-
   - illustration
   - print
   - photo
@@ -21,15 +18,10 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-
   caption:
 
   focal_point: Smart
-
-
 ---
-
-
 
 
 ![](tgi01.jpg)
