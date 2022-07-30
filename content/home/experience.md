@@ -32,20 +32,14 @@ experience:
     date_end: '2022-06-22'
     description: |2-
     
-          * Elaborate and teach workshops, activities and courses on subjects related to arts,
-          culture, technology and digital literacy for all age groups. Promote social inclusion
-          and a meaningful and critical appropriation of the use of technology.
-          * Write texts for use in the dissemination of activities. Create materials for online activ-
-          ities, including photography and graphics, and editing and narrating videos.
-          * Research and curate activities, working with invited artists, teachers and specialists
-          to adapt these activities taking into consideration the institution’s and the public’s
-          needs.
-          * Work in collaboration with other teams at SESC in areas such as social development,
-          after school programs, youth group, music, tourism, sports, literature.
-          * Research new trends in art, media, technology and digital culture.
-          * Research open source software and hardware for use in art education, digital literacy,
-          digital fabrication, game design, graphic arts, science.
-          * Decide which new equipment and materials would be needed and acquired.
+    * Elaborate and teach workshops, activities and courses on subjects related to arts, culture, technology and digital literacy for all age groups. Promote social inclusion
+    and a meaningful and critical appropriation of the use of technology.
+    * Write texts for use in the dissemination of activities. Create materials for online activities, including photography and graphics, and editing and narrating videos.
+    * Research and curate activities, working with invited artists, teachers and specialists to adapt these activities taking into consideration the institution’s and the public’s needs.
+    * Work in collaboration with other teams at SESC in areas such as social development, after school programs, youth group, music, tourism, sports, literature.
+    * Research new trends in art, media, technology and digital culture.
+    * Research open source software and hardware for use in art education, digital literacy, digital fabrication, game design, graphic arts, science.
+    * Decide which new equipment and materials would be needed and acquired.
 
   - title: Junior Consultant
     company: IN2 - AI-powered web solutions
