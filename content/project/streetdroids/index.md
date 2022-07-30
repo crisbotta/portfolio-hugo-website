@@ -5,9 +5,10 @@ summary: This project focused on game-based learning, mobile and context aware g
 
 tags:
   - illustration
-  - print
-  - photo
   - design
+  - games
+  - writing
+  - web
 
 
 date: '2016-04-27T00:00:00Z'
