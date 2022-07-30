@@ -58,6 +58,29 @@ experience:
     * Contribute to the creation of business, dissemination and communication plans.
     * Design logos and prepare presentation materials.
 
+  - title: Junior Designer
+    company: Gabler Werbeagentur GmbH
+    company_url: 'https://www.werbe-gabler.com/'
+    company_logo: logogabler
+    location: Stuttgart, DE
+    date_start: '2008-06-01'
+    date_end: '2008-12-20'
+    description: |2-
+    * Design of websites, logos, flyers, mascots, catalogs, and visual identity.
+    * Flash animations and web banners, and the HTML/CSS part of websites.
+
+  - title: Art Assistant
+    company: Lua
+    company_url: 'http://www.lua.ag/'
+    company_logo: logolua
+    location: São Paulo, BR
+    date_start: '2006-01-10'
+    date_end: '2007-03-25'
+    description: |2-
+    * Design of logos and flyers, image treatment, illustration, layout.
+    * Development of Flash websites, animations and web banners.
+
+
 design:
   columns: '2'
 ---
