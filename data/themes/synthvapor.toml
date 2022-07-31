@@ -1,0 +1,27 @@
+# Theme metadata
+name = "Synthvapor"
+
+# Is theme light or dark?
+light = true
+
+[light]
+  # Primary
+  primary = "#ff3860"
+
+  # Menu
+  menu_primary = "#ff3860"
+  menu_text = "#fff"
+  menu_text_active = "#d0ff38ff"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "#fff"
+  home_section_even = "#f7f7f7ff"
+
+[dark]
+  # Primary
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#00defbff"
+  
