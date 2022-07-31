@@ -60,6 +60,10 @@ feature:
     icon: logoscratch
     icon_pack: custom
     name: Scratch
+  - description: 30%
+    icon: logogodot
+    icon_pack: custom
+    name: Godot
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
