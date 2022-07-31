@@ -1,6 +1,6 @@
 ---
 
-title: Sozi áudio and vídeo tutorial
+title: Sozi audio and vídeo tutorial
 
 summary: Sozi tutorial made in Sozi and published as a mini website.
 
@@ -19,6 +19,9 @@ date: '2016-04-27T00:00:00Z'
 
 external_link: 'https://crisbotta.codeberg.page/sozi-add-video-tutorial/'
 
+links:
+
+url_code: 'https://codeberg.org/crisbotta/sozi-add-video-tutorial/src/branch/pages'
 
 image:
 
