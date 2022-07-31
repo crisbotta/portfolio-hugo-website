@@ -2,7 +2,7 @@
 name = "Synthvapor"
 
 # Is theme light or dark?
-light = true
+# light = true
 
 [light]
   # Primary
