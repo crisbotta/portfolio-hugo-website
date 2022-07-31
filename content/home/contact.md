@@ -17,7 +17,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: crisbotta@proton.me
-  phone: +353 83 2005728
   address:
     city: Dublin
     country: Ireland
@@ -28,7 +27,7 @@ content:
       name: DM me
       link: 'https://crisbotta@mastodon.social'
     - icon: linkendin
-      icon_pack: fas
+      icon_pack: fab
       name: DM me
       link: 'https://linkedin.com/in/crisbotta'
 
