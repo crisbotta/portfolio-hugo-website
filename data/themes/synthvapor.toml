@@ -11,17 +11,17 @@ light = true
   # Menu
   menu_primary = "#ff3860"
   menu_text = "#fff"
-  menu_text_active = "#d0ff38ff"
+  menu_text_active = "#d0ff38"
   menu_title = "#fff"
 
   # Home sections
   home_section_odd = "#fff"
-  home_section_even = "#f7f7f7ff"
+  home_section_even = "#f7f7f7"
 
 [dark]
   # Primary
   primary = "#bbdefb"
 
   link = "#bbdefb"
-  link_hover = "#00defbff"
+  link_hover = "#00defb"
   
