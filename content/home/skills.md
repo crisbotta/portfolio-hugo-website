@@ -36,18 +36,18 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - icon: "logogimp"
-    icon_pack: "custom"
-    name: "GIMP"
-    description: "90%"
-  - icon: "logoinkscape"
-    icon_pack: "custom"
-    name: "Inkscape"
-    description: "90%"
-  - icon: "logokrita"
-    icon_pack: "custom"
-    name: "Krita"
-    description: "90%"
+  - icon: logogimp
+    icon_pack: custom
+    name: GIMP
+    description: 90%
+  - icon: logoinkscape
+    icon_pack: custom
+    name: Inkscape
+    description: 90%
+  - icon: logokrita
+    icon_pack: custom
+    name: Krita
+    description: 90%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
