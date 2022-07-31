@@ -31,7 +31,6 @@ experience:
     date_start: '2012-05-12'
     date_end: '2022-06-22'
     description: |2-
-    
     * Elaborate and teach workshops, activities and courses on subjects related to arts, culture, technology and digital literacy for all age groups. Promote social inclusion
     and a meaningful and critical appropriation of the use of technology.
     * Write texts for use in the dissemination of activities. Create materials for online activities, including photography and graphics, and editing and narrating videos.
@@ -49,7 +48,6 @@ experience:
     date_start: '2009-04-01'
     date_end: '2009-09-20'
     description: |2-
-    
     * Analysis and feedback on user requirements.
     * Contribute to the creation of business, dissemination and communication plans.
     * Design logos and prepare presentation materials.
@@ -62,7 +60,6 @@ experience:
     date_start: '2008-06-01'
     date_end: '2008-12-20'
     description: |2-
-    
     * Design of websites, logos, flyers, mascots, catalogs, and visual identity.
     * Flash animations and web banners, and the HTML/CSS part of websites.
 
@@ -74,7 +71,6 @@ experience:
     date_start: '2006-01-10'
     date_end: '2007-03-25'
     description: |2-
-    
     * Design of logos and flyers, image treatment, illustration, layout.
     * Development of Flash websites, animations and web banners.
 
