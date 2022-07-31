@@ -36,15 +36,15 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - icon: logogimp
+  - icon: gimp
     icon_pack: custom
     name: GIMP
     description: 90%
-  - icon: logoinkscape
+  - icon: inkscape
     icon_pack: custom
     name: Inkscape
     description: 90%
-  - icon: logokrita
+  - icon: krita
     icon_pack: custom
     name: Krita
     description: 90%
