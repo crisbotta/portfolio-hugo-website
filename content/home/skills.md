@@ -36,19 +36,28 @@ feature:
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - icon: gimp
+  - description: 70%
+    icon: paintbrush-pencil
+    icon_pack: fas
+    name: Other graphical software (Adobe, etc.)
+  - icon: logogimp
     icon_pack: custom
     name: GIMP
     description: 90%
-  - icon: inkscape
+  - icon: logoinkscape
     icon_pack: custom
     name: Inkscape
     description: 90%
-  - icon: krita
+  - icon: logokrita
     icon_pack: custom
     name: Krita
     description: 90%
-
+  - description: 20%
+    icon: logopenpot
+    icon_pack: custom
+    name: Figma / Penpot
+    
+<i class="fa-solid fa-paintbrush-pencil"></i>
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
