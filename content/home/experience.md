@@ -43,7 +43,7 @@ experience:
   - title: Junior Consultant
     company: IN2 - AI-powered web solutions
     company_url: 'https://in-two.com/'
-    company_logo: logoin2
+    company_logo: logoin2.png
     location: Bremen, DE
     date_start: '2009-04-01'
     date_end: '2009-09-20'
@@ -66,7 +66,7 @@ experience:
   - title: Art Assistant
     company: Lua
     company_url: 'http://www.lua.ag/'
-    company_logo: logolua
+    company_logo: logolua.png
     location: São Paulo, BR
     date_start: '2006-01-10'
     date_end: '2007-03-25'
