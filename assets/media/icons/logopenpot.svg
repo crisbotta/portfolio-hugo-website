@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="500"
+   viewBox="0 0 378.56393 500.00001"
+   width="378.56393"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="penpot-logo-icon.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.72"
+     inkscape:cx="53.488372"
+     inkscape:cy="250"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="m 98.742675,0 -52.57675,74.05348 v 41.86098 L 0.412151,137.6763 0,137.48152 v 17.20283 255.89707 l 178.37988,84.27239 10.90209,5.1462 10.89927,-5.1462 178.3827,-84.27239 v -273.0999 l -0.33593,0.15808 -45.76789,-21.76749 V 74.05348 L 330.85953,71.8008 279.88054,0 227.30096,74.05348 v 0.0734 l -38.25894,-53.88377 -37.96254,53.4688 -1.35782,-1.91111 z m 9.301505,43.01555 20.33626,28.64128 H 69.104915 l 20.09914,-28.30535 z m 181.13787,0 20.33625,28.64128 h -59.27553 l 20.09632,-28.30535 z m -90.83853,20.24593 20.33626,28.63846 h -59.2727 L 179.50339,63.59459 Z M 63.484495,86.09039 h 28.11339 v 94.66356 l -28.11339,-13.2818 z m 42.546955,0 h 27.97224 l -0.003,114.69495 -27.97224,-13.21405 z m 138.58809,0 h 28.11622 l -0.003,101.38492 -28.11057,13.27898 -0.003,-114.6639 z m 42.54695,0 h 27.97224 v 81.3507 l -27.97224,13.21406 z M 153.78383,106.3335 h 28.1134 v 117.07749 l -28.1134,-13.2818 z m 42.54695,0 h 27.97225 l -0.003,104.02152 -27.97224,13.21688 0.003,-117.2384 z m 136.12651,31.11133 24.75131,10.12014 -24.75131,11.6925 z m -286.291365,0.0367 v 21.80982 l -24.748483,-11.6925 z m -24.367392,34.4113 156.581357,73.96879 V 470.74051 L 21.798533,396.77173 Z m 334.964047,0 v 224.8789 L 200.18124,470.74051 V 245.86162 Z"
+     id="path2"
+     style="fill:#ff3860;fill-opacity:1" />
+</svg>
