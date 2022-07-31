@@ -56,6 +56,10 @@ feature:
     icon: logopenpot
     icon_pack: custom
     name: Figma / Penpot
+  - description: 90%
+    icon: logoscratch
+    icon_pack: custom
+    name: Scratch
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
