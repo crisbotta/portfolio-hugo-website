@@ -26,7 +26,7 @@ feature:
     name: Java
   - description: 20%
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: C
   - description: 60%
     icon: html5
