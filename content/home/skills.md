@@ -37,7 +37,7 @@ feature:
     icon_pack: fas
     name: Photography
   - description: 70%
-    icon: paintbrush-pencil
+    icon: pencil
     icon_pack: fas
     name: Other graphical software (Adobe, etc.)
   - icon: logogimp
