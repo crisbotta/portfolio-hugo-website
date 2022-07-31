@@ -57,7 +57,6 @@ feature:
     icon_pack: custom
     name: Figma / Penpot
     
-<i class="fa-solid fa-paintbrush-pencil"></i>
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
