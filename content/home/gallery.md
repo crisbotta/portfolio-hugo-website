@@ -29,4 +29,4 @@ design:
 #  caption: Write your image 2 caption here
 ---
 
-{{< gallery album="impressions" resize-options="150x" >}}
+{{< gallery album="impressions" resize-options="200x" >}}
