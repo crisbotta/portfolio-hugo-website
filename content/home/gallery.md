@@ -30,5 +30,3 @@ design:
 ---
 
 {{< gallery album="impressions" resize-options="150x" >}}
-
-{{< gallery album="lp" resize-options="150x" >}}
