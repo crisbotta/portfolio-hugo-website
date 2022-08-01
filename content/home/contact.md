@@ -26,7 +26,7 @@ content:
       icon_pack: fab
       name: DM me
       link: 'https://crisbotta@mastodon.social'
-    - icon: linkendin
+    - icon: linkedin
       icon_pack: fab
       name: DM me
       link: 'https://linkedin.com/in/crisbotta'
