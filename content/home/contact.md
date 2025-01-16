@@ -16,19 +16,17 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: crisbotta@proton.me
   address:
-    city: Dublin
-    country: Ireland
-    country_code: IE
+    country: Germany
+    country_code: DE
   contact_links:
     - icon: mastodon
       icon_pack: fab
-      name: DM me
+      name: DM me on Mastodon
       link: 'https://crisbotta@mastodon.social'
     - icon: linkedin
       icon_pack: fab
-      name: DM me
+      name: DM me on LinkedIn
       link: 'https://linkedin.com/in/crisbotta'
 
 design:
