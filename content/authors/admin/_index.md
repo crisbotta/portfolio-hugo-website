@@ -1,16 +1,16 @@
 ---
 role: Freelance designer and independent researcher
 avatar_filename: avatar.png
-bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic
-  and media designer
+bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic Designer
 interests:
+  - FOSS | GNU Linux
+  - Digital freedom and privacy
   - Use of technology in education
-  - Graphic | UX | UI design
+  - STEAM
   - Digital artifacts preservation and archiving
   - Media archeology
   - Software and video game studies and history
-  - STEAM
-  - FOSS
+  - Graphic | UX | UI design
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,23 +43,23 @@ organizations:
     url: https://www.sescsp.org.br
 education:
   courses:
+    - course: Postgraduate Degree in Higher Education
+      institution: SENAC São Paulo
+      year: 2012
     - course: MSc in Digital Media
       institution: University of Bremen | University of the Arts Bremen | Hochschule
         Bremen | Hochschule Bremerhaven
       year: 2011
-    - course: Postgraduate Degree in Higher Education
-      institution: SENAC São Paulo
-      year: 2012
     - course: BA in Graphic Design
       institution: Centro Universitário Belas Artes de São Paulo
       year: 2005
 superuser: true
 highlight_name: true
 title: Cristina Laura Beniczky Botta
-email: "crisbotta@proton.me"
+email: "crisbotta@gmail.com"
 ---
 Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in design, UX and UI.
 
-In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I contribute to some open-source software projects (at the moment only with translations, testing and feedback, but I want to contribute with code in the future).
+In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I like to contribute to some open-source software projects, even if is just with small things at the moment.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_crisbotta.pdf" "newtab" >}}resumé{{< /staticref >}}.
