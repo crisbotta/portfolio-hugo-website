@@ -33,7 +33,7 @@ design:
     padding: ["600px", "0", "100px", "100px"]
 ---
 
-<p><img src="https://raw.githubusercontent.com/safkhet/portfolio-hugo-website/7129ea1dc514babaa02737dadfabc8cc56aa3739/assets/media/crisb_logo_w.svg" style="float:left;width:200px;height:auto;padding-right:50px;align:center;">
+<p><img src="" style="float:left;width:200px;height:auto;padding-right:50px;align:center;">
 <h1>Cristina Botta</h1>
 <h6>MSc in Digital Media and independent researcher | </br> 
 STEAM educator | Graphic and media designer
