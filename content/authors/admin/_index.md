@@ -7,9 +7,9 @@ interests:
   - Digital freedom and privacy
   - Use of technology in education
   - STEAM
+  - Software and video game studies and history
   - Digital artifacts preservation and archiving
   - Media archeology
-  - Software and video game studies and history
   - Graphic | UX | UI design
 social:
   - icon: envelope
