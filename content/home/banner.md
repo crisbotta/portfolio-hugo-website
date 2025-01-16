@@ -33,7 +33,7 @@ design:
     padding: ["600px", "0", "100px", "100px"]
 ---
 
-<p><img src="" style="float:left;width:200px;height:auto;padding-right:50px;align:center;">
+<p>
 <h1>Cristina Botta</h1>
 <h6>MSc in Digital Media and independent researcher | </br> 
 STEAM educator | Graphic and media designer
