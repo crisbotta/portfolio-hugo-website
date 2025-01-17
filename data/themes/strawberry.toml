@@ -14,3 +14,17 @@ name = "strawberry"
   # Home sections
   home_section_odd = "#fff"
   home_section_even = "#fff"
+
+[dark]
+  # Primary
+  primary = "#ff3860"
+
+  # Menu
+  menu_primary = "#1e2028"
+  menu_text = "#fff"
+  menu_text_active = "rgb(255, 107, 137)"
+  menu_title = "#fff"
+
+  # Home sections
+  home_section_odd = "#23252F"
+  home_section_even = "#272935"
