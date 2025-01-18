@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: "crisbotta@gmail.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/crisbotta/
@@ -61,4 +61,4 @@ Digital media specialist, interested in digital artifacts preservation and archi
 
 In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I like to contribute to some open-source software projects, even if is just with small things at the moment.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_crisbotta.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_crisbotta.pdf" "newtab" >}}resume{{< /staticref >}}.
