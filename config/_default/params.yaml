@@ -8,6 +8,7 @@
 appearance:
   theme_day: strawberry
   theme_night: strawberry
+  mode: dark
   font: mrrobot
   font_size: L
 
