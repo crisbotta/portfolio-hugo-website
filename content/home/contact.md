@@ -16,11 +16,12 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: crisbotta@gmail.com
   address:
     city: Germany
+    region: Cologne area
     country: Germany
     country_code: DE
+  email: crisbotta@gmail.com
   contact_links:
     - icon: mastodon
       icon_pack: fab
