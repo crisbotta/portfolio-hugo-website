@@ -36,7 +36,7 @@ design:
 <p>
 <h1>Cristina Botta</h1>
 <h6>MSc in Digital Media and independent researcher | </br> 
-STEAM educator | Graphic and Designer
+STEAM educator | Graphic Designer
 </h6>
 </p>
 
