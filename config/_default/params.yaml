@@ -18,7 +18,7 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'crisbotta'
+    org_name: 'Cristina Botta'
     description: 'My portfolio and resume website.'
     twitter: ''
   analytics:
@@ -33,8 +33,8 @@ marketing:
 header:
   navbar:
     enable: true
-    align: c
-    show_logo: false
+    align: r
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
