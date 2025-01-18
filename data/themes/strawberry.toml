@@ -18,6 +18,10 @@ name = "strawberry"
 [dark]
   # Primary
   #primary = "#ff3860"
+  primary = "#bbdefb"
+
+  link = "#bbdefb"
+  link_hover = "#00defb"
 
   # Menu
   menu_primary = "#1e2028"
