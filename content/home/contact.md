@@ -16,12 +16,12 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
+  email: crisbotta@gmail.com
   address:
     city: Germany
     country: Germany
     country_code: DE
   contact_links:
-  email: crisbotta@gmail.com
     - icon: mastodon
       icon_pack: fab
       name: DM me on Mastodon
