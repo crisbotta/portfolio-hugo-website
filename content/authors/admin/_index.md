@@ -14,7 +14,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "crisbotta@gmail.com"
+    link: "mailto:crisbotta@gmail.com"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/crisbotta/
