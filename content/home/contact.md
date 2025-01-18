@@ -17,13 +17,15 @@ content:
 
   # Contact details (edit or remove options as required)
   address:
+    city: Germany
     country: Germany
     country_code: DE
   contact_links:
+      email: crisbotta@gmail.com
     - icon: mastodon
       icon_pack: fab
       name: DM me on Mastodon
-      link: 'https://crisbotta@mastodon.social'
+      link: 'https://mastodon.social/@crisbotta'
     - icon: linkedin
       icon_pack: fab
       name: DM me on LinkedIn
