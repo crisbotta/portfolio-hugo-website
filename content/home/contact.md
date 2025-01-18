@@ -21,7 +21,7 @@ content:
     country: Germany
     country_code: DE
   contact_links:
-      email: crisbotta@gmail.com
+  email: crisbotta@gmail.com
     - icon: mastodon
       icon_pack: fab
       name: DM me on Mastodon
