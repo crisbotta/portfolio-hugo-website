@@ -37,7 +37,7 @@ social:
     icon: mastodon
   - icon: github
     icon_pack: fab
-    link: https://github.com/safkhet
+    link: https://github.com/crisbotta
 organizations:
   - name: SESC São Paulo
     url: https://www.sescsp.org.br
