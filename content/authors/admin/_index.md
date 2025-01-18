@@ -1,5 +1,5 @@
 ---
-role: Freelance designer and independent researcher
+role: STEAM educator | Graphic Designer | Digital Media Independent Researcher
 avatar_filename: avatar.png
 bio: MSc in Digital Media and independent researcher | STEAM educator | Graphic Designer
 interests:
@@ -47,8 +47,7 @@ education:
       institution: SENAC São Paulo
       year: 2012
     - course: MSc in Digital Media
-      institution: University of Bremen | University of the Arts Bremen | Hochschule
-        Bremen | Hochschule Bremerhaven
+      institution: University of Bremen | University of the Arts Bremen |  Universitiy of Applied Sciences Bremen | Universitiy of Applied Sciences Bremerhaven
       year: 2011
     - course: BA in Graphic Design
       institution: Centro Universitário Belas Artes de São Paulo
