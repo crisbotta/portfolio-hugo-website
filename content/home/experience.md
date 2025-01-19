@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Graphic Designer / Consultant
     company: Self-Employed
-    company_logo: <i class="fa fa-pencil" aria-hidden="true"></i>
+    company_logo: pencil-cog
     date_start: '2005'
     date_end: ''
     description: |2-
