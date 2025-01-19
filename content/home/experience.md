@@ -26,7 +26,7 @@ experience:
   - title: Graphic Designer / Consultant
     company: Self-Employed
     company_logo: pencil-cog
-    date_start: '2005'
+    date_start: '2005-01-01'
     date_end: ''
     description: |2-
         * Logos, flyers, image treatment, illustration, layout, webdesign.
