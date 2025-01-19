@@ -23,8 +23,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Arts And Technology Educator
-    company: SESC SP Serviço Social do Comércio
+  - title: Graphic Designer / Consultant
+    company: Self-Employed
+    company_logo: <i class="fa fa-pencil" aria-hidden="true"></i>
+    date_start: '2005'
+    date_end: ''
+    description: |2-
+        * Logos, flyers, image treatment, illustration, layout, webdesign.
+        * Advising/teaching on matters related to open source software, Linux, digital literacy, and digital privacy and security.
+    
+  - title: Arts and Technology Educator
+    company: SESC SP Serviço Social do Comércio de São Paulo
     company_url: 'https://www.sescsp.org.br/'
     company_logo: logosesc
     location: São Paulo, BR
@@ -39,7 +48,7 @@ experience:
         * Research new trends in art, media, technology and digital culture.
         * Research open source software and hardware for use in art education, digital literacy, digital fabrication, game design, graphic arts, science.
         * Decide which new equipment and materials would be needed and acquired.
-
+    
   - title: Junior Consultant
     company: IN2 - AI-powered web solutions
     company_url: 'https://in-two.com/'
@@ -48,7 +57,7 @@ experience:
     date_start: '2009-04-01'
     date_end: '2009-09-20'
     description: |2-
-        * Analysis and feedback on user requirements.
+        * Provide analysis and feedback of user requirements.
         * Contribute to the creation of business, dissemination and communication plans.
         * Design logos and prepare presentation materials.
 
