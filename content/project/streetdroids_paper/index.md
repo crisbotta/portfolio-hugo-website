@@ -1,6 +1,6 @@
 ---
 
-title: StreetDroids - A mobile game for creating spatial exploration
+title: StreetDroids - A mobile game for creating spatial exploration
 
 summary:  This paper describes the advantages of spatial exploration in relation to learning experiences in mobile games using the example of the StreetDroids game, which was developed as part of a master project of the Universities of Applied Sciences Bremerhaven and Bremen.
 
