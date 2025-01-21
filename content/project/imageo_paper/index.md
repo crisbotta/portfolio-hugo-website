@@ -2,7 +2,7 @@
 
 title: ImaGeo - Better Touristic Experiences Through Instant Information
 
-summary: Project focusing on accurate geo-temporal coding in photos with the prospect of transforming the use of geo-temporal media tagging and demonstrating the true potential of location-based applications for the Tourism and Heritage industries. 
+summary: Project by IN2 focusing on accurate geo-temporal coding in photos with the prospect of transforming the use of geo-temporal media tagging and demonstrating the true potential of location-based applications for the Tourism and Heritage industries. 
 
 tags: 
 
