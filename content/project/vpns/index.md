@@ -1,6 +1,6 @@
 ---
 
-title: What are VPNs for?
+title: What are VPNs?
 summary: Cards created for social networks to help people understand what VPNs are (and especially aren't).
 
 tags: 
