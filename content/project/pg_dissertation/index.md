@@ -2,7 +2,7 @@
 
 title: Jogos Eletrônicos e Ferramentas de Criação para Educação
 
-summary:  This dissertation presents a historical background of digital educational tools and games, and proposes the struture for the creation of a post-graduation course in the area of educational digital game design.
+summary:  This dissertation presents a historical background of digital educational tools and games, and proposes the structure for the creation of a post-graduation course in the area of educational digital game design.
 
 tags: 
 
