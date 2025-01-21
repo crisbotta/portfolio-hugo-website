@@ -51,7 +51,7 @@ feature:
   - description: 90%
     icon: zotero
     icon_pack: academicons
-    name: zotero
+    name: Zotero
   - description: 20%
     icon: logopenpot
     icon_pack: custom
