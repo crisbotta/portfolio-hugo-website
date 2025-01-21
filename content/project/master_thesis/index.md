@@ -2,7 +2,7 @@
 
 title: Oh No, I'm Dead! ... Again. Death as a Crossroad Where Different Pathways in the Study of Video Games Converge
 
-summary:  How death mechanics, storytelling structures, and the limitations of simulations affect how video games are designed and played.
+summary:  This master thesis focuses on how death mechanics, storytelling structures, and the limitations of simulations affect how video games are designed and played.
 
 tags: 
 
