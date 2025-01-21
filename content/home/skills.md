@@ -29,12 +29,12 @@ feature:
     icon_pack: custom
     name: Graphics Software (Gimp, Krita, Inkscape, Adobe Creative Suite)
   - description: 60%
-    icon: html5
-    icon_pack: fab
+    icon: file-code
+    icon_pack: fas
     name: html / css
   - description: 20%
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: C / Java / Javascript / Python
   - description: 60%
     icon: camera-retro
