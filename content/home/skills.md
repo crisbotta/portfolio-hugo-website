@@ -20,38 +20,38 @@ feature:
     icon: linux
     icon_pack: fab
     name: Linux
-  - description: 20%
-    icon: java
-    icon_pack: fab
-    name: Java
-  - description: 20%
-    icon: code
+  - description: 70%
+    icon: file-lines
     icon_pack: fas
-    name: C
+    name: Office Software (LibreOffice, Microsoft Office / 365, Nextcloud)
+  - description: 80%
+    icon: logokrita
+    icon_pack: custom
+    name: Graphics Software (Gimp, Krita, Inkscape, Adobe Creative Suite)
   - description: 60%
     icon: html5
     icon_pack: fab
     name: html / css
+  - description: 20%
+    icon: code
+    icon_pack: fab
+    name: C / Java / Javascript / Python
   - description: 60%
     icon: camera-retro
     icon_pack: fas
     name: Photography
-  - description: 70%
-    icon: pencil
+  - description: 50%
+    icon: film
     icon_pack: fas
-    name: Other graphical software (Adobe, etc.)
-  - icon: logogimp
+    name: Video Editing 
+  - description: 60%
+    icon: logolatex
     icon_pack: custom
-    name: GIMP
-    description: 90%
-  - icon: logoinkscape
-    icon_pack: custom
-    name: Inkscape
-    description: 90%
-  - icon: logokrita
-    icon_pack: custom
-    name: Krita
-    description: 90%
+    name: LaTeX / LyX
+  - description: 90%
+    icon: zotero
+    icon_pack: academicons
+    name: zotero
   - description: 20%
     icon: logopenpot
     icon_pack: custom
@@ -64,6 +64,7 @@ feature:
     icon: logogodot
     icon_pack: custom
     name: Godot
+
     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
