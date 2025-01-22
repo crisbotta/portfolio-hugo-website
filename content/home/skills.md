@@ -32,7 +32,7 @@ feature:
     icon: file-code
     icon_pack: fas
     name: html / css
-  - description: 20%
+  - description: 30%
     icon: code
     icon_pack: fas
     name: C / Java / Javascript / Python
@@ -50,7 +50,7 @@ feature:
     name: LaTeX / LyX
   - description: 90%
     icon: zotero
-    icon_pack: academicons
+    icon_pack: academicon
     name: Zotero
   - description: 20%
     icon: logopenpot
