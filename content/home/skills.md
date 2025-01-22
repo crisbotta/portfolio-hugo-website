@@ -50,7 +50,7 @@ feature:
     name: LaTeX / LyX
   - description: 90%
     icon: zotero
-    icon_pack: academicon
+    icon_pack: ai
     name: Zotero
   - description: 20%
     icon: logopenpot
