@@ -33,7 +33,7 @@ experience:
         * Advising/teaching on matters related to open source software, Linux, digital literacy, and digital privacy and security.
     
   - title: Arts and Technology Educator
-    company: SESC SP Serviço Social do Comércio de São Paulo
+    company: SESC SP Serviço Social do Comércio de São Paulo*
     company_url: 'https://www.sescsp.org.br/'
     company_logo: logosesc
     location: São Paulo, BR
@@ -48,6 +48,7 @@ experience:
         * Research new trends in art, media, technology and digital culture.
         * Research open source software and hardware for use in art education, digital literacy, digital fabrication, game design, graphic arts, science.
         * Decide which new equipment and materials would be needed and acquired.
+        * *SESC is a Portuguese acronym for Social Service of Commerce. It is a private, nonprofit entity that provides access to sports and health facilities and also to art, music and other cultural and educational activities. For more information on SESC please take a look at [this](https://www.nytimes.com/2012/03/27/arts/brazils-leading-arts-financing-group-shares-the-wealth.html) New York Times article.
     
   - title: Junior Consultant
     company: IN2 - AI-powered web solutions
