@@ -60,8 +60,4 @@ highlight_name: true
 title: Cristina Laura Beniczky Botta
 email: "crisbotta@gmail.com"
 ---
-Digital media specialist, interested in digital artifacts preservation and archiving, software and video game studies and history, and the use of technology in education. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends, changes, and the state of the art in design, UX and UI.
-
-In my spare time I like hiking, backing, building with LEGO, drawing and painting, playing strategy video games, and reading non-fiction from areas completely unrelated to my research. I like to contribute to some open-source software projects, even if is just with small things at the moment.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_crisbotta.pdf" "newtab" >}}resume{{< /staticref >}}.
+Digital media specialist, interested in the use of technology in education, digital artifacts preservation and archiving, and software and video games studies and history. I have ten years experience working with diverse communities in digital literacy and STEAM in informal education. I also continue brushing up my design skills and keeping up with trends in design, UI and UX. In my free time I like building LEGO, drawing and painting, hiking, playing strategy video games, baking, and reading non-fiction from areas completely unrelated to my research. I also make small contributions to some open-source software projects, but want to increase that in the future.
