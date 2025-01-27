@@ -55,7 +55,7 @@ feature:
   - description: 20%
     icon: logopenpot
     icon_pack: custom
-    name: Figma / Penpot
+    name: Penpot/Figma
   - description: 90%
     icon: logoscratch
     icon_pack: custom
