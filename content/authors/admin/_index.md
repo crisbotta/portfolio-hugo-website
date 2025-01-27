@@ -43,6 +43,9 @@ organizations:
     url: https://www.sescsp.org.br
 education:
   courses:
+    - course: BSc in Computer Science (unfinished)
+      institution: Universidade Paulista
+      year: 2017
     - course: Postgraduate Degree in Higher Education
       institution: SENAC São Paulo
       year: 2012
