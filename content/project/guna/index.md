@@ -14,7 +14,7 @@ date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: 'https://sescvilamariana.itch.io/jogo-da-memoria-guna'
+# external_link: 'https://sescvilamariana.itch.io/jogo-da-memoria-guna'
 
 
 
@@ -37,7 +37,6 @@ url_slides: ''
 url_video: ''
 
 
-
 # Slides (optional).
 
 #   Associate this project with Markdown slides.
@@ -56,6 +55,10 @@ url_video: ''
 Memory game created in partnership with the educators of the "Amerindian Encounters" exhibition. By playing the game people get to know a type of embroidery, called Mola, made by artists of the Guna people. Play with the sound on to hear the name of the work and the artist who produced it.
 
 This game was born from the will to create a digital interactive presence for the exhibition "Amerindian Encounters", and make it possible for a larger number of people to access the exhibition's content.
+
+Ypu can find the GDScript code [here](https://codeberg.org/crisbotta/godot_memory_game)
+
+I also wrote a short article about the development of the game [here](https://sescvilamariana.itch.io/jogo-da-memoria-guna/devlog/342361/um-pequeno-relato-sobre-o-desenvolvimento-deste-jogo)
 
 [Learn more about the exhibition.](https://sesc.digital/colecao/exposicao-encontros-amerindios)
 
