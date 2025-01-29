@@ -1,7 +1,7 @@
 ---
 
 title: Handheld games nostalgia
-summary: Cards created for social networks during the Covid lockdowns.
+summary: Image and text carousel about old handheld video games.
 
 tags: 
   - writing
