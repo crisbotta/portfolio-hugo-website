@@ -34,11 +34,10 @@ url_code: ''
 
 url_pdf: ''
 
-url_slides: ''
+url_slides: 'https://portal.sescsp.org.br/online/artigo/14946_AUTENTICACAO+POR+DOIS+FATORES+2FA'
 
 url_video: ''
 
-url_article: 'https://portal.sescsp.org.br/online/artigo/14946_AUTENTICACAO+POR+DOIS+FATORES+2FA'
 
 # Slides (optional).
 
