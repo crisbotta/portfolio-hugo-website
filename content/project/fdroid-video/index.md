@@ -1,6 +1,6 @@
 ---
 title: F-Droid Video
-summary: Video about F-Droid App "Store".
+summary: Video and article about the F-Droid open source app "store".
 
 tags: 
   - writing
@@ -15,6 +15,16 @@ date: '2016-04-27T00:00:00Z'
 
 
 external_link: 'https://portal.sescsp.org.br/online/artigo/15278_MAIS+SEGURANCA+EM+SEUS+APLICATIVOS+COM+O+FDROID'
+
+links:
+
+url_code: ''
+
+url_pdf: ''
+
+url_slides: ''
+
+url_video: 'https://www.instagram.com/p/COTmfprHyCJ/'
 
 
 image:
