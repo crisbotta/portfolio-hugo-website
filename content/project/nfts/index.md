@@ -1,7 +1,7 @@
 ---
 
 title: What are NFTs?
-summary: Cards created for social networks to help people understand what NFTs are. And an [article](https://www.sescsp.org.br/nf-o-que/) cowritten with my coleague Thiago Ruiz.
+summary: Image and text carousel explaining what are NFTs. And an [article](https://www.sescsp.org.br/nf-o-que/) cowritten with my coleague Thiago Ruiz.
 
 tags: 
   - writing
