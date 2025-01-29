@@ -2,7 +2,7 @@
 
 title: Sesc's Week of Play
 
-summary: Cards created for social networks during the Covid lockdowns.
+summary: Image and text carousel created in partnership with the after school activities club at SESC Vila Mariana.
 
 
 tags: 
