@@ -2,7 +2,7 @@
 
 title: 2FA explanation and tutorial cards
 
-summary: Cards made for social networks to explain why and how to use 2FA apps, with a focus on offline open source apps.
+summary: Image and text carousel explaining why and how to use 2FA apps, with a focus on offline open source apps.
 
 tags: 
 
