@@ -4,7 +4,7 @@
 
 title: Games to Relax
 
-summary: Cards created for social networks during the Covid lockdowns.
+summary: Image and text carousel created as part of SESC's summer activities for 2021.
 
 tags: 
 
