@@ -1,7 +1,7 @@
 ---
 
 title: Bike Games
-summary: Cards created for social networks. Linked to the summer sports activities at SESC.
+summary: Image and text carousel created as part of SESC's summer activities for 2022.
 
 tags: 
   - writing
