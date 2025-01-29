@@ -1,6 +1,6 @@
 ---
-title: Cards indigenous games
-summary: Cards to help promote indie games made by indigenous peoples. Made as part of the celebrations for indigenous month.
+title: Indigenous games
+summary: Image and text carousel to help promote indie games made by indigenous peoples. Made as part of the celebrations for indigenous month.
 
 tags: 
 
