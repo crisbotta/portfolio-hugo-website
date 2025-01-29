@@ -1,6 +1,6 @@
 ---
 title: Fediverse Video
-summary: Video about federated social networks, focusing mostly on Mastodon.
+summary: Video and article about federated social networks, focusing mostly on Mastodon.
 
 tags: 
   - writing
