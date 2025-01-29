@@ -1,7 +1,7 @@
 ---
 
 title: What are VPNs?
-summary: Cards created for social networks to help people understand what VPNs are (and especially aren't).
+summary: Image and text carousel to explain what VPNs are, how they work and why you would (or wouldn't) need this service.
 
 tags: 
   - writing
