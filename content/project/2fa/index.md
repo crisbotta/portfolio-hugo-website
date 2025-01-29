@@ -2,7 +2,7 @@
 
 title: 2FA explanation and tutorial cards
 
-summary: Cards made for social networks to explain why and how to use 2FA apps.
+summary: Cards made for social networks to explain why and how to use 2FA apps, with a focus on offline open source apps.
 
 tags: 
 
@@ -38,7 +38,7 @@ url_slides: ''
 
 url_video: ''
 
-
+url_article: 'https://portal.sescsp.org.br/online/artigo/14946_AUTENTICACAO+POR+DOIS+FATORES+2FA'
 
 # Slides (optional).
 
