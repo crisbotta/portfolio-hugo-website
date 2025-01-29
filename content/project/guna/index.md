@@ -7,6 +7,7 @@ summary: Memory game developed as additional content for the "Amerindian Encount
 tags:
 
   - games
+  - writing
 
 date: '2016-04-27T00:00:00Z'
 
