@@ -1,4 +1,4 @@
-# SITE SETUP
+n# SITE SETUP
 # Guide: https://wowchemy.com/docs/getting-started/
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
@@ -17,7 +17,7 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'design linux open source media studies'
     org_name: 'Cristina Botta'
     description: 'My portfolio and resume website.'
     twitter: ''
