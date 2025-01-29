@@ -1,7 +1,7 @@
 ---
 
 title: Create balance sculptures
-summary: Cards created for social networks during the Covid lockdowns.
+summary: Image and text carousel created for the winter festival activities at SESC Vila Mariana.
 
 tags: 
   - writing
