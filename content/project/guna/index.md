@@ -56,9 +56,9 @@ Memory game created in partnership with the educators of the "Amerindian Encount
 
 This game was born from the will to create a digital interactive presence for the exhibition "Amerindian Encounters", and make it possible for a larger number of people to access the exhibition's content.
 
-Ypu can find the GDScript code [here](https://codeberg.org/crisbotta/godot_memory_game)
+You can find the GDScript code [here](https://codeberg.org/crisbotta/godot_memory_game)
 
-I also wrote a short article about the development of the game [here](https://sescvilamariana.itch.io/jogo-da-memoria-guna/devlog/342361/um-pequeno-relato-sobre-o-desenvolvimento-deste-jogo)
+I also wrote a short article about the development of the game [here (in Portuguese)](https://sescvilamariana.itch.io/jogo-da-memoria-guna/devlog/342361/um-pequeno-relato-sobre-o-desenvolvimento-deste-jogo)
 
 [Learn more about the exhibition.](https://sesc.digital/colecao/exposicao-encontros-amerindios)
 
