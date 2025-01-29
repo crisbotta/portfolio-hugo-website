@@ -16,7 +16,7 @@ date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 
-external_link: 'https://www.instagram.com/p/CIs0WRYrkbt/'
+external_link: 'https://portal.sescsp.org.br/online/artigo/14946_AUTENTICACAO+POR+DOIS+FATORES+2FA'
 
 
 
@@ -34,9 +34,9 @@ url_code: ''
 
 url_pdf: ''
 
-url_slides: ''
+url_slides: 'https://www.instagram.com/p/CIs0WRYrkbt/'
 
-url_video: 'https://portal.sescsp.org.br/online/artigo/14946_AUTENTICACAO+POR+DOIS+FATORES+2FA'
+url_video: ''
 
 
 # Slides (optional).
