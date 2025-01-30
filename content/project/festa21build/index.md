@@ -2,7 +2,7 @@
 
 title: Create your own building set
 
-summary: Cards created for social networks during the Covid lockdowns.
+summary: Image and text carousel created for SESC's winter festival activities.
 
 tags: 
 
