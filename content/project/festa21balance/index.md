@@ -1,7 +1,7 @@
 ---
 
 title: Create balance sculptures
-summary: Image and text carousel created for the winter festival activities at SESC Vila Mariana.
+summary: Image and text carousel created for SESC's winter festival activities.
 
 tags: 
   - writing
